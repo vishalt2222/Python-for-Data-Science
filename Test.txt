@@ -1,3 +1,0 @@
-Hii, I am Vishal Thakur
-Welcome to my GitHub Responstories.
-This is test file to check the git and github configration.
